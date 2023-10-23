@@ -12,7 +12,7 @@ Project aims to create a tour places app.
 ```
 001-Tour Project(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
